@@ -10,7 +10,7 @@
 
 ### Output file format
 
-Info about original dictionary: [OpenCorpora](http://opencorpora.org/?page=export)
+Info about original dictionary: [OpenCorpora](http://opencorpora.org/?page=export)<br>
 Download original dictionary: http://opencorpora.org/dict.php
 
 ```ts
