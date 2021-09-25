@@ -11,6 +11,7 @@
 ### Output file format
 
 Info about original dictionary: [OpenCorpora](http://opencorpora.org/?page=export)
+Download original dictionary: http://opencorpora.org/dict.php
 
 ```ts
 interface GrammemeRecord {
